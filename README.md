@@ -3,8 +3,8 @@
 
 
 ## О команде
-* **Дзись Андрей** - *Стажер-исследователь ИППИ РАН* - [dzisandy](https://github.com/dzisandy)
-* **Балицкий Глеб** - *Стажер-исследователь ИППИ РАН* - [Balitskiy-Gleb](https://github.com/Balitskiy-Gleb)
+* **Дзись Андрей** - [dzisandy](https://github.com/dzisandy)
+* **Балицкий Глеб** - [Balitskiy-Gleb](https://github.com/Balitskiy-Gleb)
 
 ## Период работы
 2017 - 2018.
