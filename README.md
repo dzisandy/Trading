@@ -2,7 +2,7 @@
  
 
 
-## Обо команде
+## О команде
 * **Дзись Андрей** - *Стажер-исследователь ИППИ РАН* - [dzisandy](https://github.com/dzisandy)
 * **Балицкий Глеб** - *Стажер-исследователь ИППИ РАН* - [Balitskiy-Gleb](https://github.com/Balitskiy-Gleb)
 
